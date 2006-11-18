@@ -1,0 +1,7 @@
+build
+.classpath
+.project
+javanet-uploader.iml
+.settings
+work
+target
