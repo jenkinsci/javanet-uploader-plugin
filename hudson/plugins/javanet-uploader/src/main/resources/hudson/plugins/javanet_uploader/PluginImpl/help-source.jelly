@@ -1,0 +1,7 @@
+<div>
+  File(s) to be uploaded. This is relative to <a href="ws">the workspace root</a>.
+  <br />
+  It can include
+  <a href="${request.contextPath}/env-vars.html">macro variables like '$BUILD_NUMBER'</a>,
+  which will be substituted by their actual values, and/or Ant-style wildcards like 'target/**/*.zip'
+</div>
